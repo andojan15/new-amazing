@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   images: {
-    domains: ["amazing-watch.com"],
+    domains: ["hayerov.org"],
   },
 }
 
